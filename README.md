@@ -48,17 +48,6 @@
 
 ---
 
-## 🏗️ Featured Projects
-
-| Project            | Objective                                       | Description                                                                                                                                               |
-|--------------------|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Whatsapp Tester**| Automate WhatsApp chatbot validation             | - Developed a script to automate message sending and monitor responses.<br>- Generated automatic reports on activity and errors.<br>- Integrated with **Slack** for real-time notifications to stakeholders. |
-| **KPI Reports**    | Optimize the generation of performance indicators | - Automated **KPI** report generation using **Python**.<br>- Extracted data from the **ClickUp API**.<br>- Generated shareable reports in **Google Colab**.  |
-| **Lead Verifier**  | Validate forms and contact flow on real estate portals | - Developed scripts with **Cypress** to simulate real user behavior.<br>- Automated navigation between property listings.<br>- Tested contact forms to ensure error-free lead capture. |
-
-
----
-
 ## 🛠️ Technical Skills
 
 | Category              | Tools / Languages                                             |
@@ -72,6 +61,16 @@
 | **Cloud**             | Google Cloud Platform, AWS                                   |
 | **Operating Systems** | Linux, macOS, Windows                                        |
 | **Test Management**   | Notion, ClickUp, Trello, Jira, Xray                          |
+
+---
+
+## 🏗️ Featured Projects
+
+| Project            | Objective                                       | Description                                                                                                                                               |
+|--------------------|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Whatsapp Tester**| Automate WhatsApp chatbot validation             | - Developed a script to automate message sending and monitor responses.<br>- Generated automatic reports on activity and errors.<br>- Integrated with **Slack** for real-time notifications to stakeholders. |
+| **KPI Reports**    | Optimize the generation of performance indicators | - Automated **KPI** report generation using **Python**.<br>- Extracted data from the **ClickUp API**.<br>- Generated shareable reports in **Google Colab**.  |
+| **Lead Verifier**  | Validate forms and contact flow on real estate portals | - Developed scripts with **Cypress** to simulate real user behavior.<br>- Automated navigation between property listings.<br>- Tested contact forms to ensure error-free lead capture. |
 
 ---
 
