@@ -94,7 +94,7 @@
 - 📧 frank_vega25@hotmail.com  
 - 🔗 LinkedIn: [franciscoantoniocabezasvega](https://www.linkedin.com/in/franciscoantoniocabezasvega/)  
 - 🐙 GitHub: [franciscoCabezasVega](https://github.com/franciscoCabezasVega)  
-- 🌐 Portfolio (Notion): [Portfolio Francisco Cabezas](https://www.notion.so/Portfolio-Francisco-Cabezas-1d14503d8112800fa5a1d73e04a392cf)
+- 🌐 Portfolio (Notion): [Portfolio Francisco Cabezas](https://franciscocabezasvega.github.io/portfolio-francisco-cabezas/)
 
 ---
 
