@@ -1,8 +1,4 @@
 <!-- ========== HEADER / HERO ========== -->
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQGlveN02blArw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1709344787535?e=1756339200&v=beta&t=ELPj8xg1A_JbAqc7xuDSQVowqZfy8X4Izfg3AlSbERk" alt="Foto de Francisco Cabezas" style="border-radius:50%;" />
-</p>
-
 <h1 align="center">¡Hi, I'm Francisco Cabezas! 👋</h1>
 <p align="center">
   QA Engineer • Automation • Performance Testing • CI/CD • Docker
