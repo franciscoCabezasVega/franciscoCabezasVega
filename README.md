@@ -19,7 +19,7 @@
   
 ## 👨‍💻 Professional Profile
 
-QA Analyst with **{{YEARS_EXPERIENCE}}+ years of experience** in test automation,
+QA Analyst with **2+ years of experience** in test automation,
 functional testing, performance testing, and CI/CD processes. Skilled in
 building scalable automation frameworks, designing robust test
 strategies, and ensuring high-quality releases for fast-paced
