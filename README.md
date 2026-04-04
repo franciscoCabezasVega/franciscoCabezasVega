@@ -137,7 +137,7 @@ I excel at implementing strategic automation solutions that optimize regression 
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
 ### [ISTQB Study App](https://github.com/franciscoCabezasVega/ISTQB-Study-App)
 
@@ -154,6 +154,26 @@ Progressive Web Application (PWA) designed to help students prepare for the ISTQ
 
 [![View Demo](https://img.shields.io/badge/View-Demo-blue?style=for-the-badge)](https://istqb-frontend-static.onrender.com/)
 [![View Code](https://img.shields.io/badge/View-Code-black?style=for-the-badge&logo=github)](https://github.com/franciscoCabezasVega/ISTQB-Study-App)
+
+---
+
+### [Generador de Evaluaciones](https://github.com/franciscoCabezasVega/generador-evaluaciones)
+
+Web application that allows development squads to register, evaluate, and analyze monthly completed tasks. Automatically calculates scores based on returns (severe, medium, and low), generates versioned reports, and uses AI to produce qualitative performance and communication comments.
+
+**Key Features:**
+- Automated score calculation based on task returns (severe: −1.5, medium: −0.75, low groups: −0.5)
+- Versioned report generation with AI-generated comments via OpenAI GPT
+- Full CRUD task management with real-time validation and advanced filters
+- Complete audit trail with detailed change history per entity
+- Supabase Auth + Row Level Security (RLS) for granular access control
+- Resilience layer: automatic retries with exponential backoff and informative modals
+- Full CI/CD pipeline: tests must pass before every production deploy
+
+**Tech Stack:** Next.js, TypeScript, React, PostgreSQL, Supabase, OpenAI (GPT), Jest, Playwright, GitHub Actions, Vercel, Tailwind CSS
+
+[![View Demo](https://img.shields.io/badge/View-Demo-blue?style=for-the-badge)](https://generador-evaluaciones.vercel.app/)
+[![View Code](https://img.shields.io/badge/View-Code-black?style=for-the-badge&logo=github)](https://github.com/franciscoCabezasVega/generador-evaluaciones)
 
 ---
 
