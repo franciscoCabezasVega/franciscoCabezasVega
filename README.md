@@ -179,6 +179,7 @@ PWA to prepare for ISTQB Foundation Level with spaced repetition and an exam sim
 ## 🏆 Certifications
 
 ![ISTQB](https://img.shields.io/badge/ISTQB-Certified_Tester_Foundation_Level-orange?style=for-the-badge)
+![Hacking Arsenal Setup](https://img.shields.io/badge/Security-Hacking_Arsenal_Setup-red?style=for-the-badge)
 ![SCRUM](https://img.shields.io/badge/SCRUM-Foundation_Professional-blue?style=for-the-badge)
 ![GCP](https://img.shields.io/badge/Google_Cloud-Platform_Certifications-yellow?style=for-the-badge&logo=google-cloud)
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-MinTIC-purple?style=for-the-badge)
