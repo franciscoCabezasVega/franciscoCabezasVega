@@ -10,7 +10,7 @@
 
 <p align="center">
   <b>I test AI systems, and I use AI to test better.</b><br/>
-  LLM validation, chatbots on WhatsApp and social channels, OWASP security testing and AI-assisted automation.
+  LLM validation, chatbots on WhatsApp and social channels, mobile apps, OWASP security testing and AI-assisted automation.
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-QA Automation Engineer with **6+ years** building E2E and API test suites with Playwright, Cypress and Selenium and shipping them through CI/CD. Today I focus on **AI-powered products and chatbots on WhatsApp and social channels**: I turn fuzzy LLM behavior into measurable checks and use AI to write and maintain better tests.
+QA Automation Engineer with **6+ years** building E2E and API test suites with Playwright, Cypress and Selenium and shipping them through CI/CD. Today I focus on **AI-powered products, chatbots on WhatsApp and social channels, and mobile apps (React Native, and Flutter with Patrol)**: I turn fuzzy LLM behavior into measurable checks and use AI to write and maintain better tests.
 
 I see QA moving from running tests to **designing quality systems**: defining what "correct" means for non-deterministic software, automating the evidence and keeping a human in the loop.
 
@@ -37,6 +37,7 @@ I see QA moving from running tests to **designing quality systems**: defining wh
 | Groundedness and hallucination checks (RAG) | Agentic Playwright suites: planner, generator, healer | Latency and token-cost budgets |
 | Prompt injection, jailbreak and guardrail tests | Failure and flaky-test triage with LLMs | Production monitoring and drift |
 | Chatbot and agent validation on WhatsApp and social channels | Claude Code with project skills, review subagents and hooks | Risk-based testing (ISTQB) |
+| | Mobile testing with MCP: Patrol and mobile MCP on Android emulators (ADB) and iOS simulators and iPhone | |
 
 > **AI proposes, I verify.** Nothing a model generates ships without review.
 
@@ -64,6 +65,16 @@ I see QA moving from running tests to **designing quality systems**: defining wh
 ![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white)
 ![POM](https://img.shields.io/badge/Page_Object_Model-0A7E8C?style=flat-square)
 ![BDD](https://img.shields.io/badge/BDD-Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
+
+**📱 Mobile** &nbsp;
+![Patrol](https://img.shields.io/badge/Patrol-Flutter_E2E-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![ADB](https://img.shields.io/badge/ADB-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS Simulator](https://img.shields.io/badge/iOS_Simulator-000000?style=flat-square&logo=apple&logoColor=white)
+![Mobile MCP](https://img.shields.io/badge/Mobile_MCP-blueviolet?style=flat-square)
 
 **💻 Languages** &nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
