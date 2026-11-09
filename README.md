@@ -194,3 +194,5 @@ PWA to prepare for ISTQB Foundation Level with spaced repetition and an exam sim
 <p align="center">
   <i>"Quality is not a phase — it's a continuous, collaborative practice."</i>
 </p>
+
+<!-- experience-checked: 2026-11-09 -->
